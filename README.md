@@ -1,5 +1,5 @@
 
-![Gráfico de domínios atacados](docs/painel-dominios.png)
+
 
 # Painel CrowdSec
 
