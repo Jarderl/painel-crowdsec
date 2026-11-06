@@ -1,6 +1,9 @@
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7783a48 (Adiciona infográfico ao README)
 # Painel CrowdSec
 
 Dashboard em português para acompanhar o que o CrowdSec está detectando no seu servidor: alertas ao longo do tempo, **domínios atacados**, cenários de ataque, países e IPs de origem, horários e bloqueios ativos.
