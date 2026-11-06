@@ -1,3 +1,6 @@
+
+![Gráfico de domínios atacados](docs/painel-dominios.png)
+
 # Painel CrowdSec
 
 Dashboard em português para acompanhar o que o CrowdSec está detectando no seu servidor: alertas ao longo do tempo, **domínios atacados**, cenários de ataque, países e IPs de origem, horários e bloqueios ativos.
