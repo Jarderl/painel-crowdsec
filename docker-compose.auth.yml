@@ -1,0 +1,8 @@
+# Complemento que liga usuário e senha no painel.
+# Subir:  docker compose -f docker-compose.yml -f docker-compose.auth.yml up -d
+# Antes, crie a senha com:  ./criar-senha.sh
+services:
+  painel:
+    volumes:
+      - ./nginx/auth.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./nginx/.htpasswd:/etc/nginx/.htpasswd:ro

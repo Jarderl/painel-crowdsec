@@ -1,0 +1,7 @@
+# Dados reais do seu servidor: nunca suba para o GitHub
+web/alertas.json
+web/decisoes.json
+web/*.tmp
+# Senha e configuração local
+nginx/.htpasswd
+.env
